@@ -1,0 +1,3 @@
+Félicitions ! Vous avez résolu la deuxième énigme mais ne vous arrêtez pas là, les enquêteurs comptent sur votre aide. <br>
+Rendez-vous à la prochaine énigme ! <br><br>
+L’arme du crime a maintenant été découverte grâce à votre précieuse aide. Mais une nouvelle information vous parvient : les caméras de l'hôtel n'ont détecté aucun sortie ou entrée durant l'événement ; le suspect est parmi nous ! Les enquêteurs décident alors de jeter un œil à la base de données des clients de l’hôtel pour construire une liste de suspects, mais une mauvaise surprise les attend ...

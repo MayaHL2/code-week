@@ -1,0 +1,286 @@
+Fetouma est la tante paternelle de Maryam
+Safia est la nièce de Safia
+Bachira est la maman de Omar
+Karim est la père de Asma
+Mourad est l'oncle paternel de Ilias
+Sérine est la soeur de Aya
+Hani est le cousin de Farid
+Larbi est le neveu de Islem
+Aya est la fille de Bachira
+Djafar est le neveu de Kamel
+Bachira est la tante paternelle de Yasmine
+Abla est la cousine de Drifa
+Aziza est la grand-mère maternelle de Younes
+Islem est la grand-père paternel de Lilia
+Khaled est l'oncle maternel de Fares
+Inès est la cousine de Inès
+Oussama est le frère de Djafar
+Karim est le cousin de Islem
+Leticia est la fille de Drifa
+Fares est le fils de Mourad
+Safia est la tante paternelle de Lilia
+Fouzia est la soeur de Fetouma
+Bachira est la maman de Samir
+Salah est la père de Manel
+Fawzi est le père de Younes
+Inès est la soeur de Aya
+Djafar est le cousin de Malik
+Hocine est le frère de Islem
+Leticia est la fille de Fouzia
+Malik est le petit-fils de Hocine
+Abla est la tante maternelle de Yasmine
+Baya est la nièce de Abla
+Aziza est la tante paternelle de Nacim
+Nourredine est la père de Asma
+Khaled est l'oncle maternel de Djafar
+Yasmine est la cousine de Sérine
+Hakim est le cousin de Hani
+Larbi est le frère de Toufik
+Manel est la petite-fille de Khadidja
+Samir est le neveu de Larbi
+Yasmina est la grand-mère maternelle de Inès
+Anissa est la nièce de Abla
+Fatima est la grand-mère maternelle de Malik
+Fawzi est la oncle maternel de Yasmine
+Larbi est le grand-père paternel de Younes
+Sérine est la cousine de Maryam
+Djafar est le cousin de Samir
+Nourredine est le neveu de Fouad
+Leticia est la nièce de Abla
+Omar est le petit-fils de Hocine
+Fouzia est la grand-mère maternelle de Thilelli
+Fouzia est la cousine de Drifa
+Anissa est la grand-mère paternelle de Djafar
+Hocine est la oncle paternel de Manel
+Salah est le grand-père maternel de Younes
+Leticia est la nièce de Inès
+Djafar est le cousin de Nacim
+Fouad est le frère de Kamel
+Asma est la nièce de Fatima
+Ilias est le neveu de Larbi
+Fatima est la tante paternelle de Leticia
+Safia est la cousine de Safia
+Fatima est la tante maternelle de Omar
+Khaled est la oncle maternel de Inès
+Larbi est l'oncle paternel de Hani
+Yasmine est la soeur de Aya
+Oussama est le frère de Farid
+Toufik est le frère de Salah
+Aya est la nièce de Khadidja
+Younes est le petit-fils de Toufik
+Abla est la tante maternelle de Maya
+Fetouma est la cousine de Fetouma
+Aldjia est la tante maternelle de Walid
+Nourredine est la père de Yasmine
+Fouad est l'oncle paternel de Hakim
+Lilia est la cousine de Assia
+Samir est le cousin de Omar
+Mourad est le cousin de Kamel
+Yasmine est la nièce de Yasmina
+Walid est le fils de Mourad
+Anissa est la grand-mère maternelle de Hana
+Fetouma est la soeur de Khadidja
+Aldjia est la grand-mère maternelle de Farid
+Kamel est la oncle paternel de Asma
+Larbi est l'oncle maternel de Djafar
+Asma est la nièce de Lilia
+Ilias est le frère de Ilias
+Karim est le neveu de Toufik
+Asma est la fille de Anissa
+Samir est le neveu de Khaled
+Halima est la maman de Lilia
+Halima est la cousine de Fetouma
+Anissa est la tante paternelle de Hani
+Kamel est la oncle paternel de Aya
+Nourredine est l'oncle paternel de Walid
+Lilia est la cousine de Hana
+Omar est le frère de Fares
+Fawzi est le cousin de Fouad
+Aya est la fille de Fatima
+Ramzi est le fils de Karim
+Bachira est la maman de Yasmine
+Aldjia est la soeur de Aldjia
+Drifa est la tante paternelle de Nacim
+Azzeddine est la grand-père paternel de Inès
+Karim est le grand-père paternel de Ilias
+Aya est la nièce de Thilelli
+Fares est le frère de Samir
+Karim est le neveu de Salah
+Sérine est la petite-fille de Yasmina
+Fares est le fils de Khaled
+Khadidja est la grand-mère maternelle de Assia
+Abla est la cousine de Fouzia
+Safia est la maman de Nacim
+Karim est la grand-père maternel de Manel
+Hocine est l'oncle maternel de Younes
+Leticia est la cousine de Leticia
+Omar est le neveu de Omar
+Toufik est le neveu de Khaled
+Inès est la petite-fille de Anissa
+Younes est le petit-fils de Islem
+Drifa est la grand-mère paternelle de Lilia
+Baya est la soeur de Fatima
+Drifa est la maman de Nacim
+Kamel est la grand-père maternel de Manel
+Nourredine est le père de Ilias
+Inès est la cousine de Leticia
+Farid est le frère de Nacim
+Kamel est le frère de Fawzi
+Maya est la petite-fille de Halima
+Ilias est le neveu de Hocine
+Yasmina est la grand-mère paternelle de Aya
+Khadidja est la soeur de Bachira
+Drifa est la grand-mère maternelle de Omar
+Azzeddine est la père de Maya
+Fouad est le grand-père maternel de Younes
+Sérine est la cousine de Leticia
+Ilias est le frère de Oussama
+Islem est le neveu de Hocine
+Maya est la fille de Abla
+Djafar est le petit-fils de Mourad
+Safia est la tante maternelle de Inès
+Fouzia est la soeur de Aziza
+Yasmina est la grand-mère maternelle de Farid
+Toufik est la oncle paternel de Lilia
+Mourad est le grand-père paternel de Djafar
+Assia est la nièce de Leticia
+Ilias est le cousin de Hakim
+Hocine est le cousin de Salah
+Thilelli est la petite-fille de Bachira
+Malik est le neveu de Kamel
+Safia est la maman de Maryam
+Fatima est la nièce de Drifa
+Yasmina est la maman de Hakim
+Kamel est la oncle paternel de Sérine
+Toufik est le père de Younes
+Leticia est la soeur de Aya
+Younes est le neveu de Djafar
+Islem est le neveu de Salah
+Inès est la fille de Fetouma
+Fares est le petit-fils de Mourad
+Bachira est la tante paternelle de Sérine
+Abla est la cousine de Bachira
+Bachira est la tante maternelle de Younes
+Toufik est la père de Yasmine
+Islem est le grand-père paternel de Hakim
+Leticia est la soeur de Maya
+Hani est le cousin de Ilias
+Nourredine est le cousin de Fawzi
+Yasmine est la petite-fille de Bachira
+Malik est le neveu de Fawzi
+Safia est la grand-mère paternelle de Manel
+Baya est la nièce de Fetouma
+Baya est la grand-mère paternelle de Djafar
+Fouad est la oncle maternel de Maryam
+Fouad est le grand-père paternel de Oussama
+Assia est la nièce de Lilia
+Farid est le neveu de Malik
+Larbi est le neveu de Hocine
+Sérine est la petite-fille de Anissa
+Younes est le neveu de Toufik
+Fouzia est la grand-mère paternelle de Hana
+Drifa est la cousine de Aziza
+Bachira est la grand-mère maternelle de Djafar
+Kamel est la oncle maternel de Asma
+Fouad est le père de Malik
+Assia est la cousine de Aya
+Ramzi est le neveu de Farid
+Toufik est le frère de Fouad
+Maya est la petite-fille de Anissa
+Younes est le neveu de Salah
+Fetouma est la maman de Sérine
+Abla est la soeur de Safia
+Drifa est la grand-mère paternelle de Djafar
+Azzeddine est la grand-père maternel de Assia
+Mourad est le grand-père maternel de Farid
+Thilelli est la soeur de Sérine
+Samir est le frère de Malik
+Karim est le frère de Toufik
+Leticia est la petite-fille de Halima
+Omar est le petit-fils de Azzeddine
+Baya est la tante maternelle de Thilelli
+Baya est la nièce de Yasmina
+Baya est la maman de Hakim
+Hocine est la grand-père maternel de Assia
+Nourredine est le grand-père maternel de Walid
+Hana est la soeur de Maryam
+Omar est le neveu de Ramzi
+Nourredine est le cousin de Khaled
+Sérine est la fille de Halima
+Younes est le neveu de Nourredine
+Bachira est la grand-mère paternelle de Manel
+Baya est la soeur de Halima
+Kamel est le grand-père paternel de Nacim
+Aya est la cousine de Leticia
+Walid est le cousin de Younes
+Fouzia est la grand-mère paternelle de Sérine
+Anissa est la soeur de Khadidja
+Toufik est l'oncle paternel de Hakim
+Leticia est la cousine de Hana
+Malik est le neveu de Oussama
+Halima est la grand-mère paternelle de Hana
+Fatima est la soeur de Baya
+Mourad est l'oncle paternel de Nacim
+Thilelli est la soeur de Maryam
+Farid est le cousin de Omar
+Fetouma est la tante maternelle de Assia
+Abla est la soeur de Yasmina
+Mourad est l'oncle paternel de Ramzi
+Hana est la nièce de Asma
+Oussama est le cousin de Ilias
+Aldjia est la grand-mère paternelle de Aya
+Khadidja est la soeur de Aldjia
+Larbi est le grand-père paternel de Walid
+Thilelli est la soeur de Inès
+Walid est le cousin de Omar
+Fouzia est la tante paternelle de Yasmine
+Bachira est la nièce de Khadidja
+Fawzi est l'oncle paternel de Walid
+Inès est la cousine de Inès
+Walid est le cousin de Fares
+Aldjia est la grand-mère paternelle de Hana
+Khadidja est la soeur de Halima
+Fawzi est le grand-père paternel de Fares
+Leticia est la soeur de Assia
+Farid est le cousin de Fares
+Anissa est la tante maternelle de Lilia
+Bachira est la cousine de Safia
+Fouad est le grand-père maternel de Samir
+Inès est la nièce de Manel
+Djafar est le cousin de Ramzi
+Fouzia est la tante paternelle de Manel
+Halima est la nièce de Baya
+Nourredine est l'oncle maternel de Malik
+Bachira est la tante paternelle de Assia
+Fouzia est la cousine de Halima
+Nourredine est l'oncle paternel de Oussama
+Khadidja est la grand-mère maternelle de Manel
+Abla est la cousine de Safia
+Fouad est l'oncle paternel de Fares
+Fetouma est la cousine de Drifa
+Khadidja est la tante maternelle de Sérine
+Toufik est le neveu de Hocine
+Assia est la petite-fille de Drifa
+Leticia est la cousine de Asma
+Hani est le cousin de Farid
+Fetouma est la soeur de Aldjia
+Fares est le neveu de Kamel
+Halima est la soeur de Fouzia
+Samir est le fils de Karim
+Fouzia est la nièce de Khadidja
+Malik est le fils de Mourad
+Anissa est la soeur de Drifa
+Farid est le fils de Khaled
+Aziza est la soeur de Anissa
+Oussama est le fils de Hocine
+Drifa est la soeur de Anissa
+Djafar est le neveu de Larbi
+Yasmina est la nièce de Fetouma
+Nacim est le neveu de Mourad
+Safia est la soeur de Fatima
+Ilias est le neveu de Islem
+Halima est la nièce de Fetouma
+Malik est le fils de Karim
+Kamel est le grand-père paternel de Walid
+Drifa est la grand-mère paternelle de Samir
+Mourad est le grand-père paternel de Yasmine

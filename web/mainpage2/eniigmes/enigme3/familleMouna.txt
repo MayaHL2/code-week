@@ -1,0 +1,37 @@
+Boussaad est le grand-père paternel de Mouna
+Rocky est la mère de Michael
+Mouna est la fille de Slimane
+Slimane est le grand-père paternel de Michael
+Nadia est la maman de Mouna
+Karima est la grand-mère maternelle de Mouna
+Mira est la tante paternelle de Mouna
+Samy est le neveu de Mouna
+Abdou est le fils de Mouna
+Yazid est l’oncle maternel de Michael
+Yazid est le père de Samy
+Dounia est la belle-soeur de Mouna
+Ourida est la grand-mère paternelle de Mouna
+Hamid est le frère de Ourida
+Ferroudja est la soeur de Boussaad
+Sonia est la tante maternelle de Rocky
+Samira est la soeur de Sonia
+Sonia est la soeur de Nadia
+Michael est le fils de Rayan
+Yazid est l’oncle maternel de Abdou
+Nour est la cousine de Mouna
+Houda est la cousine de Mouna
+Nour est la soeur de Houda
+Sonia est la maman de Nour
+Mouna est la petite-fille de Moukrane
+Madjid est le frère de Karima
+Nadia est la fille de Moukrane
+Kahina est la tante maternelle de Mouna
+Lina est la cousine de Mouna
+Kahina est la maman de Lina
+Fatah est le frère de Lina
+Lina est la fille de Ahmed
+Riad est l’oncle maternel de Mouna
+Mouna est la cousine de Lydia
+Lydia est la fille de Riad
+Dounia est la soeur de Lydia
+Sarah est la maman de Lydia
